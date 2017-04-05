@@ -1,2 +1,2 @@
 we just create new repository on GitHub website and trying 
-to cone it to desktop and then make update and push it back 
+to clone it to desktop and then make update and push it back 
